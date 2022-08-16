@@ -1,0 +1,17 @@
+
+.main {
+  align-items: center;
+  background: linear-gradient(90deg, #09c 50%, #31aef4 51%);
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  font-family: Roboto, sans-serif;
+  height: 100vh;
+  justify-content: center;
+  width: 100vw;
+}
+
+.main svg {
+  height: auto;
+  width: 50%;
+}
